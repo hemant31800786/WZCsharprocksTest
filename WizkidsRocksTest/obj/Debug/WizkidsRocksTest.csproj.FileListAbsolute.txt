@@ -1,0 +1,7 @@
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\bin\Debug\WizkidsRocksTest.exe.config
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\bin\Debug\WizkidsRocksTest.exe
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\bin\Debug\WizkidsRocksTest.pdb
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\obj\Debug\WizkidsRocksTest.csprojAssemblyReference.cache
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\obj\Debug\WizkidsRocksTest.csproj.CoreCompileInputs.cache
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\obj\Debug\WizkidsRocksTest.exe
+F:\2019\c#interview question\Wizkids\WizkidsRocksTest\WizkidsRocksTest\obj\Debug\WizkidsRocksTest.pdb
